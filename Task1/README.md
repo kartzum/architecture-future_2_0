@@ -1,9 +1,7 @@
-# architecture-future_2_0
-
 ## Проектирование целевой архитектуры и приоритизация проблем для поддержки ключевых бизнес-сценариев компании
 
-[README.md](Task1/README.md)
+### C4
 
-## Проектирование облачной инфраструктуры с применением IaaS и Terraform 1
+![future_2_0_to-be.drawio.png](future_2_0_to-be.drawio.png)
 
-[README.md](Task4/README.md)
+[future_2_0_to-be.drawio](future_2_0_to-be.drawio)

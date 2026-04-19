@@ -87,6 +87,13 @@
 * Установка Terraform и настройка окружения выполняются вручную.
 * Подготовка terraform.tfvars выполняются вручную.
 
+**Ресурсы/файлы**
+
+* main.tf
+* providers.tf
+* variables.tf
+* terraform.tfvars
+
 **Обоснование**
 
 Данная конфигурация Terraform создаёт минимальную, но полноценную IaaS-инфраструктуру в Yandex Cloud. 
